@@ -6,6 +6,7 @@ Despite of that I already am a Web Designer or something like that.
 Some of me knowledges:
 - GIMP
 - MySql
+- CANVAS
 - When I relember the others I will tell you xD
 
 If you want to know more about the jobs of mine:

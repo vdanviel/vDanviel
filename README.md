@@ -7,6 +7,7 @@ Some of me knowledges:
 - GIMP
 - MySql
 - CANVAS
+- PHP
 - When I relember the others I will tell you xD
 
 If you want to know more about the jobs of mine:

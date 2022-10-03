@@ -3,7 +3,6 @@
 *A litlle about me:*<br>
 I am twenty years old, and well, I am a Junior programmer and today I work in front-end, and back-end languagens. A full-stack developer here 😄.
 
-### **Some of me knowledges:**
 ## *Design*
 <span>
 <img height="100"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-plain.svg"/>

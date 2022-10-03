@@ -1,9 +1,7 @@
-<span>
 ## Hello there! 👋
 ### Welcome to my profile, feel free! 🕊
 *A litlle about me:*<br>
 I am twenty years old, and well, I am a Junior programmer and today I work in front-end, and back-end languagens. A full-stack developer here 😄.
-</span>
 
 ## *Design*
 <span>
@@ -26,5 +24,7 @@ I am twenty years old, and well, I am a Junior programmer and today I work in fr
 <img height="90"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"/>
 <img height="86"  src="https://avatars.githubusercontent.com/u/11195762?v=4"/>
 </span>
-  
+
+<span>
 <img height="250px" href="https://github-readme-stats.vercel.app/api/top-langs/?username={vdanviel}">
+</span>

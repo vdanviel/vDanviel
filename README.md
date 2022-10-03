@@ -1,11 +1,11 @@
-### Hello! Welcome 😀 Feel Free! 🕊
+### Welcome 😀 Feel Free! 🕊
 
 - 🛸 In love for Developing 
 - 💛 Junior Developer 
 - 🚀 I am studying back end now 
 - 👨‍💻 Work as FullStack 
 
-<div align="center">
+<div>
   <a href="https://github.com/vdanviel">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vdanviel&layout=compact&langs_count=7&theme=cobalt"/>
 </div>

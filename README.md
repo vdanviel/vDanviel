@@ -1,14 +1,19 @@
-### Welcome 😀 Feel Free! 🕊
+### Welcome! <img src="https://emojipedia-us.s3.amazonaws.com/source/noto-emoji-animations/344/waving-hand_1f44b.gif" alt="hello-hand" height="25">
+
+### I'm Victor, your favorite hacker-boy! 😀
+<p>I am studying and having fun experices with developing right now. 👻</p>
 
 - 💌 In love for Developing 
 - 👶 Junior Developer 
 - 📚 I am studying back end now 
 - 👨‍💻 Work as FullStack 
 
-<div>
+<div align="start">
   <a href="https://github.com/vdanviel">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vdanviel&layout=compact&langs_count=7&theme=cobalt"/>
+  <img src="https://media.tenor.com/CgGUXc-LDc4AAAAM/hacker-pc.gif" alt="hackerboy" height="250">
+  </a>
 </div>
+<sub>Me doing my didactic projects, charity projects and others..</sub>
  
 <div style="display: inline_block"><br>
   <img height="60" alt="GIMP"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-plain.svg"/>

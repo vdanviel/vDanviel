@@ -16,7 +16,7 @@
   </a><br>
   <sub>Me doing my didactic projects, charity projects and others..</sub><br><br>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vdanviel&layout=compact&theme=radical" alt="most-used-langagues" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vdanviel&layout=compact&theme=merko" alt="most-used-langagues" height="150">
 </div>
 
  
@@ -38,6 +38,6 @@
 <div> 
   <a href="https://www.instagram.com/v.danviel/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:victordn.araujo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/victor-daniel-b0a5a4214/" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/victor-daniel-b0a5a4214/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  </div>
 

@@ -7,6 +7,8 @@
 - 👶 Junior Developer 
 - 📚 I am studying back end now 
 - 👨‍💻 Work as FullStack 
+- 🇧🇷 From Brazil :)
+
 #
 
 <div style="float: center;">

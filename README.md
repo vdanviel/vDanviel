@@ -13,10 +13,8 @@
   
   <sub>Me doing my didactic projects, charity projects and others..</sub><br>
   
-  <img src="https://media.tenor.com/CgGUXc-LDc4AAAAM/hacker-pc.gif" alt="hackerboy" height="250">&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vdanviel&layout=compact&theme=merko" alt="most-used-langagues" height="150">
+<img src="https://media.tenor.com/CgGUXc-LDc4AAAAM/hacker-pc.gif" alt="hackerboy" height="250"><br><br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vdanviel&layout=compact&theme=merko" alt="most-used-langagues" height="150">
 </div>
-
- 
 <div style="display: inline_block"><br>
 <img height="60" alt="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"/>
 <img height="60"  alt="MySql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>

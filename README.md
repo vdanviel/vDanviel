@@ -11,7 +11,7 @@
 <div align="start">
   <a href="https://github.com/vdanviel">
   <img src="https://media.tenor.com/CgGUXc-LDc4AAAAM/hacker-pc.gif" alt="hackerboy" height="250">
-  </a>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 <sub>Me doing my didactic projects, charity projects and others..</sub>
  

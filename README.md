@@ -1,8 +1,8 @@
 ### Welcome 😀 Feel Free! 🕊
 
-- 🛸 In love for Developing 
-- 💛 Junior Developer 
-- 🚀 I am studying back end now 
+- 💌 In love for Developing 
+- 👶 Junior Developer 
+- 📚 I am studying back end now 
 - 👨‍💻 Work as FullStack 
 
 <div>

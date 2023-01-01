@@ -5,8 +5,8 @@
 
 - 💌 In love for Developing 
 - 👶 Junior Developer 
-- 📚 I am studying PHP back-end now 
-- 👨‍💻 Work as FullStack 
+- 📚 I am studying back-end now 
+- 👨‍💻 Work as FullStack
 - 🇧🇷 From Brazil :)
 
 #

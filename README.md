@@ -1,7 +1,7 @@
 ### Welcome! <img src="https://emojipedia-us.s3.amazonaws.com/source/noto-emoji-animations/344/waving-hand_1f44b.gif" alt="hello-hand" height="25">
 
 ### I'm Victor, your favorite hacker-boy! 😀
-<p>I am studying and having fun experices with developing right now. 👻</p>
+<p>I having fun experices with developing right now. 👻</p>
 
 - 💌 In love for Developing 
 - 👶 Junior Developer 
@@ -13,7 +13,7 @@
 
 <div style="float: center;">
   
-  <sub>Me doing my didactic projects, charity projects and others..</sub><br>
+  <sub>Me doing my projects...</sub><br>
   
 <img src="https://media.tenor.com/CgGUXc-LDc4AAAAM/hacker-pc.gif" alt="hackerboy" height="250"><br><br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vdanviel&layout=compact&theme=white" alt="most-used-langagues" height="150">
 </div>

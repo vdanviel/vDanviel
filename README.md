@@ -1,12 +1,12 @@
 ### Welcome! <img src="https://emojipedia-us.s3.amazonaws.com/source/noto-emoji-animations/344/waving-hand_1f44b.gif" alt="hello-hand" height="25">
 
 ### I'm Victor, your favorite hacker-boy! 😀
-<p>I having fun experices with developing right now. 👻</p>
+<p>A PHP programmer currently learning Laravel! 👻</p>
 
 - 💌 In love for Developing 
 - 👶 Junior Developer 
-- 📚 I am studying back-end now 
-- 👨‍💻 Work as FullStack
+- 📚 Always learning 
+- 👨‍💻 Work in backend
 - 🇧🇷 From Brazil :)
 
 #

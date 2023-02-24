@@ -6,7 +6,7 @@
 - 💌 In love for Developing 
 - 👶 Junior Developer 
 - 📚 Always learning 
-- 👨‍💻 Work in backend
+- 👨‍💻 Work as back-end
 - 🇧🇷 From Brazil :)
 
 #

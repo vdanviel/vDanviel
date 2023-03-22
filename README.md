@@ -3,10 +3,11 @@
 ### I'm Victor, your favorite hacker-boy! 😀
 <p>A PHP programmer currently learning Laravel! 👻</p>
 
-- 💌 In love for Developing 
+- 💌 I love programming
 - 👶 Junior Developer 
 - 📚 Always learning 
 - 👨‍💻 Work as back-end
+- 🤩 I like Laravel
 - 🇧🇷 From Brazil :)
 
 #

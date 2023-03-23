@@ -1,6 +1,6 @@
 ### Welcome! <img src="https://emojipedia-us.s3.amazonaws.com/source/noto-emoji-animations/344/waving-hand_1f44b.gif" alt="hello-hand" height="25">
 
-### I'm Victor, your favorite hacker-boy! 😀
+### I'm Victor Daniel, your favorite hacker-boy! 😀
 <p>A PHP programmer currently learning Laravel! 👻</p>
 
 - 💌 I love programming

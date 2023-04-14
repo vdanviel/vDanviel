@@ -9,13 +9,12 @@
 <ul>
   <li>💌 I love programming</li>
   <li>🇧🇷 From Brazil</li>
-  <li>🤩 I like Laravel</li>
   <li>👨‍💻 Looking for opportunities</li>
   <li>📚 Always learning</li>
-  <li>🎸 I like to play guitar (someday I gonna be a developer rock-star!!)</li>
+  <li>🎸 I like to play guitar!!</li>
 </ul>
 <b>
-I am 20 years, a Junior developer which is learning everyday :)<br>My main stack is PHP/Laravel!<br>If you're looking for me, call me on Whatsapp: <a href="https://wa.me/5511997817780"><img width="20" src="https://cdn-icons-png.flaticon.com/512/174/174879.png"></a>
+I am 20 years, a Junior developer which is learning everyday :) my main stack is PHP/Laravel!<br> If you're looking for me, call me on Whatsapp: <a href="https://wa.me/5511997817780"><img width="20" src="https://cdn-icons-png.flaticon.com/512/174/174879.png"></a>
 </b>
 
 <div>
@@ -33,9 +32,9 @@ I am 20 years, a Junior developer which is learning everyday :)<br>My main stack
 </div>
 
 ##
-
                                                                                        
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vdanviel&layout=compact" alt="most-used-langagues" width="350">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vdanviel" alt="most-used-langagues" width="350">
+<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra" alt="status-cart" width="350">
        
 <div> 
   <a href="https://www.instagram.com/vdanviel/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>

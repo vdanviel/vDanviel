@@ -15,7 +15,6 @@
 <div style="float: center;">
 <sub>Me doing my projects...</sub><br>
 <img src="https://media.tenor.com/CgGUXc-LDc4AAAAM/hacker-pc.gif" alt="hackerboy" height="250">&nbsp;<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vdanviel&layout=compact&theme=white" alt="most-used-langagues" height="150">
 </div>
 <div style="display: inline_block"><br>
   <img height="50"  alt="Laravel" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg"/>
@@ -31,7 +30,8 @@
   <img height="50" alt="Canva" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/>
   <img height="50"  alt="Photoshop" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg"/>
 </div>
-  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vdanviel&layout=compact&theme=white" alt="most-used-langagues" height="200">
+
 ##
 
 <div> 

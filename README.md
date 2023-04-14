@@ -34,8 +34,8 @@ I am 20 years, a Junior developer which is learning everyday :) my main stack is
 ##
 
 <div style="display:inline">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vdanviel&theme=great-gatsby&layout=compact" alt="most-used-langagues" width="350" height="200">
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=great-gatsby" alt="status-cart" width="350" height="200">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vdanviel&theme=gruvbox_light&layout=compact" alt="most-used-langagues" width="350" height="200">
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=gruvbox_light" alt="status-cart" width="350" height="200">
 </div>
        
 <div> 

@@ -32,9 +32,11 @@ I am 20 years, a Junior developer which is learning everyday :) my main stack is
 </div>
 
 ##
-                                                                                       
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vdanviel" alt="most-used-langagues" width="350">
-<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra" alt="status-cart" width="350">
+
+<div style="display:inline">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vdanviel&theme=great-gatsby&layout=compact" alt="most-used-langagues" width="350" height="200">
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=great-gatsby" alt="status-cart" width="350" height="200">
+</div>
        
 <div> 
   <a href="https://www.instagram.com/vdanviel/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>

@@ -1,4 +1,8 @@
-<img  alt="mini-guy-playing-guitarra" src="https://i11.photobucket.com/albums/a168/evelynregly/minigifs/0513m_013.gif"/><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Alfa+Slab+One&weight=900&size=31&pause=1000&color=F7C91D&background=60FFF300&vCenter=true&width=548&lines=Welcome!;I'm+a+Junior+Delevoper!" alt="Typing SVG" /></a>
+<div style="display:inline-flex; align-items:center;">
+  
+<img alt="mini-guy-playing-guitar" src="https://i11.photobucket.com/albums/a168/evelynregly/minigifs/0513m_013.gif"/><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Alfa+Slab+One&weight=900&size=31&pause=1000&color=F7C91D&background=60FFF300&vCenter=true&width=548&lines=Welcome!;I'm+a+Junior+Delevoper!" alt="Typing SVG" />
+  
+</div>
 
 ### A little about me 👇
 
@@ -8,14 +12,14 @@
   <li>🤩 I like Laravel</li>
   <li>👨‍💻 Looking for opportunities</li>
   <li>📚 Always learning</li>
-  <li>🎸 I like to play guitar (but I don't play as a rock star lol)</li>
+  <li>🎸 I like to play guitar (someday I gonna be a developer rock-star!!)</li>
 </ul>
 <b>
 I am 20 years, a Junior developer which is learning everyday :)<br>My main stack is PHP/Laravel!<br>If you're looking for me, call me on Whatsapp: <a href="https://wa.me/5511997817780"><img width="20" src="https://cdn-icons-png.flaticon.com/512/174/174879.png"></a>
 </b>
 
 <div>
-  <h4>Some techs I use 💻</h4>
+  <h4>Some techs I use 🤖</h4>
   <img height="50"  alt="Laravel" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg"/>
   <img height="50" alt="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"/>
   <img height="50"  alt="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"/>

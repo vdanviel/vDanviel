@@ -13,7 +13,7 @@
 #
 
 <div style="float: center;">
-<sub>Me doing my projects...</sub><br><br>
+<sub>Me doing my projects...</sub><br>
 <img src="https://media.tenor.com/CgGUXc-LDc4AAAAM/hacker-pc.gif" alt="hackerboy" height="250">&nbsp;<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vdanviel&layout=compact&theme=white" alt="most-used-langagues" height="150">
 </div>

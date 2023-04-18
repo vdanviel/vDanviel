@@ -14,7 +14,7 @@
   <li>🎸 I like to play guitar!!</li>
 </ul>
 <b>
-I am 20 years, a Junior developer which is learning everyday :) my main stack is PHP/Laravel!<br> If you're looking for me, call me on Whatsapp: <a href="https://wa.me/5511997817780"><img width="20" src="https://cdn-icons-png.flaticon.com/512/174/174879.png"></a>
+I am 20 years, a Junior developer which is learning everyday :) my main stack is PHP/Laravel! (but I am not limited to it)<br> If you're looking for me, call me on Whatsapp: <a href="https://wa.me/5511997817780"><img width="20" src="https://cdn-icons-png.flaticon.com/512/174/174879.png"></a>
 </b>
 
 <div>

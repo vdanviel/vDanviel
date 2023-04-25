@@ -9,7 +9,7 @@
   
   ##
   
-  ### A little about me 👇
+  ### A little bit about me 👇
   <ul>
     <li>💌 I love programming</li>
     <li>🇧🇷 From Brazil</li>

@@ -15,7 +15,6 @@
     <li>🇧🇷 From Brazil</li>
     <li>👨‍💻 Looking for opportunities</li>
     <li>📚 Always learning</li>
-    <li>🎸 I like to play guitar!!</li>
   </ul>
 
   <div>

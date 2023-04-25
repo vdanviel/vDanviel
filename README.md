@@ -32,15 +32,15 @@
     <img height="50"  alt="Photoshop" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg"/>
     <img height="50" alt="GIMP"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-plain.svg"/>
     <img height="50" alt="Canva" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/>
-  </div>
-
-  ##
+  </div><br>
 
   <div style="display:inline">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vdanviel&theme=gruvbox_light&layout=compact" alt="most-used-langagues" width="350" height="200">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vdanviel&theme=gruvbox_light&layout=compact" alt="most-used-langagues" width="350" height="200">&nbsp;&nbsp;&nbsp;
     <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=gruvbox_light" alt="status-cart" width="350" height="200">
   </div>
-
+  
+  #
+  
   <div> 
     <a href="https://www.instagram.com/vdanviel/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href = "mailto:victordn.araujo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>

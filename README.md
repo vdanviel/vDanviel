@@ -4,7 +4,7 @@
 
   </div>
   <b>
-  I am 20 years, a Junior developer which is learning everyday :)<br> my main stack is PHP/Laravel! (but I am not limited to it)<br> don't forget to call me :grin:
+  I am 20 years, a Junior developer which is learning everyday :)<br> My main stack is PHP/Laravel! (but I am not limited to it)<br> don't forget to call me :grin:
   </b>
   
   ##

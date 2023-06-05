@@ -27,7 +27,8 @@
     <img height="50" alt="html" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
     <img height="50" alt="css" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
     <img height="50"  alt="MySql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-     <img height="50"  alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+    <img height="50"  alt="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg"/>
+    <img height="50"  alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
     <img height="50"  alt="Composer" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg"/>
     <img height="50"  alt="Photoshop" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg"/>
     <img height="50" alt="GIMP"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-plain.svg"/>

@@ -1,10 +1,10 @@
   <div style="display:inline-flex; align-items:center;">
 
-  <img alt="mini-guy-playing-guitar" src="https://i11.photobucket.com/albums/a168/evelynregly/minigifs/0513m_013.gif"/><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Alfa+Slab+One&weight=900&size=31&pause=1000&color=F7C91D&background=60FFF300&vCenter=true&width=548&lines=Welcome!;I'm+a+Junior+Delevoper!" alt="Typing SVG" />
+  <img alt="mini-guy-playing-guitar" width="40" src="https://i11.photobucket.com/albums/a168/evelynregly/minigifs/0513m_013.gif"/><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Calibri&weight=900&size=28&duration=1000&pause=946&color=FBF1C7&width=546&lines=I'm+a+software+Developer;Back-end+%26+Front-end;But+actually%2C+I'm+more+into+backend+%3A);Welcome!" alt="Typing SVG" /></a>
 
   </div>
   <b>
-  I am 20 years, a Junior developer which is learning everyday :)<br> My main stack is PHP/Laravel! (but I am not limited to it)
+  I am 20 years, a Junior developer which is learning everyday :)
   </b>
   
   ##

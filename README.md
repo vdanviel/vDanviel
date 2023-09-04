@@ -13,7 +13,7 @@
   <ul>
     <li>💌 I love programming</li>
     <li>🇧🇷 From Brazil</li>
-    <li>👨‍💻 Looking for opportunities</li>
+    <li>👨‍💻 Work as back-end developer</li>
     <li>📚 Always learning</li>
   </ul>
 

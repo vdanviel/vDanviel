@@ -5,7 +5,7 @@
   </div>
   <b>
     I am 21 years, a Software Developer which is learning everyday :) I love what I do, and I am looking for do it more & better.<br>
-    Currently working as a Back-End Developer on ASOClin.
+    Currently working as a Back-End Developer on AsoClin.
   </b>
   
   ##

@@ -15,7 +15,7 @@
     <li>💌 I love programming</li>
     <li>🇧🇷 From Brazil</li>
     <li>👨‍💻 Work as back-end developer</li>
-    <li>😅 Although I lean towards back-end work, I do consider myself a FullStack Dev.</li>
+    <li>😅 Although I am more confortable as back-end , I am a FullStack Dev.</li>
     <li>📚 Always learning</li>
   </ul>
 

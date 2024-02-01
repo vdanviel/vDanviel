@@ -14,7 +14,7 @@
   <ul>
     <li>💌 I love programming</li>
     <li>🇧🇷 From Brazil</li>
-    <li>👨‍💻 Work as back-end developer</li>
+    <li>👨‍💻 Work at distance</li>
     <li>😅 Although I am more confortable as back-end , I am a FullStack Dev.</li>
     <li>📚 Always learning</li>
   </ul>

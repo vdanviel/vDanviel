@@ -12,7 +12,7 @@
   
   ### A little bit about me 👇
   <ul>
-    <li>💌 I love programming</li>
+    <li>💌 I love make API's</li>
     <li>🇧🇷 From Brazil</li>
     <li>👨‍💻 Work at distance</li>
     <li>😅 Although I am more confortable as back-end , I am a FullStack Dev.</li>

@@ -44,6 +44,7 @@
     <img height="50"  alt="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg"/>
     <img height="50"  alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
     <img height="50"  alt="Composer" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg"/>
+    <img height="50"  alt="linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"/>
     <img height="50"  alt="figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
   </div><br>
 

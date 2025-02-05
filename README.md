@@ -14,8 +14,8 @@
     <li>💌 I love make API's</li>
     <li>🇧🇷 From Brazil</li>
     <li>👨‍💻 Work at distance</li>
-    <li>❗ Although I am more confortable as back-end , I am a FullStack Dev</li>
-    <li>📚 Always learning</li>
+    <li>❗ I love backend, but I know how to code at front-end</li>
+    <li>🐧 Linux enthusiast</li>
   </ul>
 
   <div>

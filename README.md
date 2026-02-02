@@ -11,7 +11,7 @@
   
   ### A little bit about me 👇
   <ul>
-    <li>💌 I love make API's</li>
+    <li>💌 I love the back-end environments</li>
     <li>🇧🇷 From Brazil</li>
     <li>👨‍💻 Work at distance</li>
     <li>🐧 Linux enthusiast</li>

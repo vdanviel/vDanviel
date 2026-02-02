@@ -4,7 +4,7 @@
 
   </div>
   <b>
-    I am 21 years, a Software Developer which is learning everyday :) I love what I do, and I am looking forward to do it more & better.<br>
+    A Software Developer which is learning everyday :) I love what I do, and I am looking forward to do it more & better.<br>
   </b>
   
   ##

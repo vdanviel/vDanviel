@@ -45,18 +45,5 @@
     <img height="50"  alt="Composer" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg"/>
     <img height="50"  alt="linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"/>
     <img height="50"  alt="figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
-  </div><br>
-
-  <div style="display:inline">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vdanviel&theme=gruvbox_light&layout=compact" alt="most-used-langagues" width="350" height="200">&nbsp;&nbsp;&nbsp;
-    <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=gruvbox_light" alt="status-cart" width="350" height="200">
   </div>
-  
-  #
-  
-  <div> 
-    <a href="https://www.instagram.com/danv.dev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href = "mailto:victordn.araujo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/victor-daniel-b0a5a4214/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-   </div>
 

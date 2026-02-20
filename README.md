@@ -1,6 +1,7 @@
 <div style="display:inline-flex; align-items:center;">
-  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=FBF1C7&width=435&lines=Welcome.;I+am+a+fullstack+developer.;I+am+specialized+in+back-end.;My+stack+is+PHP+%2F+JavaScript+%26+more!" alt="Typing SVG" />
   </div>
+  
   <b>
     A Software Developer which is learning everyday :) I love what I do, and I am looking forward to do it more & better.<br>
   </b>

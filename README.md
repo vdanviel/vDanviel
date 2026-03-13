@@ -10,7 +10,7 @@
   
   ### A little bit about me 👇
   <ul>
-    <li>💌 I love the back-end environments</li>
+    <li>💌 I love the back-end</li>
     <li>🇧🇷 From Brazil</li>
     <li>👨‍💻 Work at distance</li>
     <li>🐧 Linux enthusiast</li>
